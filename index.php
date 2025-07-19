@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Welcome to Spotify</title>
+</head>
+<body>
+	
+	<div id="inputContainer">
+		<form id="loginForm" action="register.php">
+			
+		</form>
+	</div>
+
+</body>
+</html>
