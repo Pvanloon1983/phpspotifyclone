@@ -7,11 +7,7 @@
 </head>
 <body>
 	
-	<div id="inputContainer">
-		<form id="loginForm" action="register.php">
-			
-		</form>
-	</div>
+	<h1>Hello</h1>
 
 </body>
 </html>
